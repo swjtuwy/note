@@ -4,3 +4,6 @@ https://github.com/forezp/SpringCloudLearning
 
 
 https://github.com/DeepCompute/cnn-text-classification-tf
+
+
+https://github.com/DeepCompute/MachineLearning
